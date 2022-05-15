@@ -1,2 +1,2 @@
-# terraform-course-raw-manual
+# learn-terraform-git-repo
 learning terraform
